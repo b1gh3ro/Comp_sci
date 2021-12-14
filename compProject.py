@@ -33,6 +33,8 @@ def main():
     print("**** Main Menu ****")
     print("1. largest and smallest numbers in a list")
     print("2. Palindrome Finder")
+    
+    print("type quit() to exit")
 
     Choice = input("choose: ")
 
